@@ -1,10 +1,9 @@
 ### 👋 Hi there I'm Back-end developer using language is java 
 
-💡 I am interested in constantly changing technological innovations. 🚀
-📚 I'm developing to make services that will improve our lives.
+💡 I am interested in constantly changing technological innovations. 🚀  
+📚 I'm developing to make services that will improve our lives.  
 
-🎧 My favorite hobby is listen to music & weight training
-
+🎧 My favorite hobby is listen to music & weight training  
 ✨ I hope to develop every special things 
 
 <!--
