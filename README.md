@@ -3,7 +3,7 @@
 <a href="https://it-studio.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-orange?style=flat-square&logo=Tistory&logoColor=white"/> 
 <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank"><img src="https://img.shields.io/badge/789dlglwo@gmail.com-gray?style=flat-square&logo=gmail&logoColor=white"/>
 <img src="https://img.shields.io/badge/HeejaeLee-blue?style=flat-square&logo=linkedin&logoColor=white"/>
-<img src="https://img.shields.io/badge/jayhxn-purplepink?style=flat-square&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/jayhxn-purple?style=flat-square&logo=instagram&logoColor=white"/>
 
 ### 👋 Hi there I'm Back-end developer using language is java 
 
