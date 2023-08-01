@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=logoColor=white"/>
+<img src="https://img.shields.io/badge/000000-orange?style=flat-square&logo=Tistory&logoColor=white"/>
 
 ### 👋 Hi there I'm Back-end developer using language is java 
 
