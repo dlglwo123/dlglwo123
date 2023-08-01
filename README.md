@@ -1,4 +1,4 @@
-<a href="https://it-studio.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-orange?style=flat-square&logo=Tistory&logoColor=white"/>
+<a href="https://it-studio.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/notion-black?style=flat-square&logo=notion&logoColor=White"/>
 <a href="https://it-studio.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-orange?style=flat-square&logo=Tistory&logoColor=white"/>
 
 ### 👋 Hi there I'm Back-end developer using language is java 
