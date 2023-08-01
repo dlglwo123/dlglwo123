@@ -11,7 +11,7 @@
  I'm developing to make services that will improve our lives. 📚
 
 
-🎧 My favorite hobby is listen to music & weight training 
+🎧 My favorite hobby is listen to music & weight training  
 ✨ I hope to develop every special things 
 
 <!--
