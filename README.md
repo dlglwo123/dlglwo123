@@ -17,6 +17,10 @@
 
 ## Skills  
 #### - Platforms & Main Language
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/> <img src="https://img.shields.io/badge/IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
 
-#### - 
+
+#### - learning or Serve Platforms & Language
+<img src="https://img.shields.io/badge/C language-A8B9CC?style=flat&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c++&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/IDEA-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
+
