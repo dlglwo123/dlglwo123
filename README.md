@@ -1,4 +1,3 @@
-<a href="https://www.notion.so/Back-end-Developer-cee0fca3ff0e438b9aa5f41894633df0?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=N&logoColor=Black"/>
 <a href="https://it-studio.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-orange?style=flat-square&logo=Tistory&logoColor=white"/>
 
 ### 👋 Hi there I'm Back-end developer using language is java 
