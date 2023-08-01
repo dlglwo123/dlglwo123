@@ -1,10 +1,10 @@
-### Hi there I'm Back-end developer using language is java 👋
+### 👋 Hi there I'm Back-end developer using language is java 
 
-I am interested in constantly changing technological innovations.
-I'm developing to make services that will improve our lives.
+💡 I am interested in constantly changing technological innovations. 🚀
+📚 I'm developing to make services that will improve our lives.
 
-My favorite hobby is listen to music & weight training
-I hope to develop every special things ✨
+🎧 My favorite hobby is listen to music & weight training
+✨ I hope to develop every special things 
 
 <!--
 **dlglwo123/dlglwo123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
