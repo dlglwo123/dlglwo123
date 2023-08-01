@@ -1,6 +1,6 @@
 <a href="https://www.notion.so/Back-end-Developer-cee0fca3ff0e438b9aa5f41894633df0?pvs=4" target="_blank"><img src="https://img.shields.io/badge/notion-black?style=flat-square&logo=notion&logoColor=White"/>
 <a href="https://it-studio.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-orange?style=flat-square&logo=Tistory&logoColor=white"/>
-<a href="https://blog.naver.com/dlglwo123" target="_blank"><img src="https://img.shields.io/badge/naver-green?style=flat-square&logo=naver&logoColor=white"/>
+<a href="https://blog.naver.com/dlglwo123" target="_blank"><img src="https://img.shields.io/badge/blog-deepgreen?style=flat-square&logo=naver&logoColor=white"/>
 
 ### 👋 Hi there I'm Back-end developer using language is java 
 
